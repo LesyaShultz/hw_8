@@ -1,0 +1,49 @@
+* {
+    font-family: Trebuchet, Arial, sans-serif;
+    text-align: center;
+    background-color: #3b3f45;
+}
+h1, p, span {
+    color: #eb7e7f;
+    background-color: #4a4f56;
+    margin: 0%;
+    
+}
+li {
+    list-style: none;
+    width: 500px;
+    height: 50px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    
+}
+
+.headihg {
+    display: block;
+    background-color: #4a4f56;
+}
+
+.one, .three, .five, label {
+    background-color: #88839e;
+    
+    
+}
+.two, .four, label {
+    background-color: #7a7593;
+}
+
+ul li:hover {
+    color: red;
+}
+/* :active до кого звернутися? */
+label {
+    display: block;
+    width: 500px;
+    height: 50px;
+}
+.one :active {
+    background-color: lawngreen;
+}
+

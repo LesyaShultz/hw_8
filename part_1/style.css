@@ -1,0 +1,53 @@
+p {
+    width: 260px;
+    height: 51px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: #9d9d9d;
+    font-weight: 300;
+    font-family: "Proxima Nova";
+    text-align: center;
+}
+
+span {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #000000;
+    font-family: "Proxima Nova";
+    text-align: center;
+}
+
+ul, li {
+    display: inline-block;
+    text-align: center;
+}
+
+ .shape1 {
+    background-image: url(img/responsive/Tablet.png);
+    background-repeat: no-repeat;
+    background-position:center; 
+    
+}
+
+  .shape2 {
+    background-image: url(img/easy/Shape\ 189.png);           
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+    
+
+} 
+
+ .shape3 {
+    background-image: url(img/fast/Shape\ 189.png);       
+    background-repeat: no-repeat;
+    background-position:center;
+} 
+
+img:hover {
+     background-color: #2a69a6; /*не до всых img працює */
+}
+
+
